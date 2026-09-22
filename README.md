@@ -1,6 +1,6 @@
 # ESP32-CAM Traffic Signs for Micro-Robotics (ESP32-TSMR)
 
-Este repositorio contiene un dataset de visión computacional orientado al guiado autónomo de un vehículo robótico terrestre a escala[cite: 2]. El objetivo funcional del agente inteligente es detectar y clasificar tres señales de control de tráfico y maniobra en interiores desde la perspectiva de un microcontrolador.
+Este repositorio contiene un dataset de visión computacional orientado al guiado autónomo de un vehículo robótico terrestre a escala. El objetivo funcional del agente inteligente es detectar y clasificar tres señales de control de tráfico y maniobra en interiores desde la perspectiva de un microcontrolador.
 
 ## Ficha Técnica del Dataset
 * **Dispositivo de Captura:** Módulo ESP32-CAM (Sensor CMOS OmniVision OV2640) montado a 8.5 cm del suelo.
